@@ -1,5 +1,6 @@
 # Patchcraft: Preparing Whole Slide Images for Training Neural Networks
 
+This project was part of my master's thesis.
 
 ## Outline
 
