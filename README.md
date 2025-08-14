@@ -1,4 +1,4 @@
-# Patchcraft
+# Patchcraft: Preparing Whole Slide Images for Training Neural Networks
 
 
 ## Outline
