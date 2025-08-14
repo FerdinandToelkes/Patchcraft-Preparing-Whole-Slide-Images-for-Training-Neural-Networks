@@ -22,16 +22,18 @@
 The package was written using Python 3.11.3. Install Patchcraft with https or ssh by running one of the following commands:
 
 ```bash
-pip3 install --upgrade git+https://github.com/FerdinandToelkes/patchcraft.git
-pip3 install --upgrade git+ssh://git@github.com/FerdinandToelkes/patchcraft.git
+pip3 install --upgrade git+https://github.com/FerdinandToelkes/Patchcraft-Preparing-Whole-Slide-Images-for-Training-Neural-Networks.git
+pip3 install --upgrade git+ssh://git@github.com/FerdinandToelkes/Patchcraft-Preparing-Whole-Slide-Images-for-Training-Neural-Networks.git
 ```
 
 or clone the repository locally and install with:
 
 ```bash
-cd patchcraft
+cd Patchcraft-Preparing-Whole-Slide-Images-for-Training-Neural-Networks
 pip3 install -e .
 ```
+
+Throughout the following we will call the directory simply patchcraft instead of Patchcraft-Preparing-Whole-Slide-Images-for-Training-Neural-Networks.
 
 # Usage
 
